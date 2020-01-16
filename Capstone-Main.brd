@@ -1874,14 +1874,14 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="VQFN-28 Semtech" x="31.75" y="42.9745125" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="31.75" y="42.9745125" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C201" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="47nF" x="39.96055" y="53.0852375" smashed="yes">
-<attribute name="MPN" value="GRM188R71H104KA93D" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="39.008559375" y="53.706015625" size="0.508" layer="25" ratio="10" rot="SR0"/>
-<attribute name="OC_FARNELL" value="8820023" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
-<attribute name="OC_NEWARK" value="38K1670" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER" value="Murata" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="±10%" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
-<attribute name="VOLTAGERATING" value="50V" x="39.96055" y="53.0852375" size="1.778" layer="27" display="off"/>
+<element name="C201" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="47nF" x="36.91255" y="53.5932375" smashed="yes">
+<attribute name="MPN" value="GRM188R71H104KA93D" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="35.960559375" y="54.214015625" size="0.508" layer="25" ratio="10" rot="SR0"/>
+<attribute name="OC_FARNELL" value="8820023" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
+<attribute name="OC_NEWARK" value="38K1670" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Murata" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
+<attribute name="TOLERANCE" value="±10%" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
+<attribute name="VOLTAGERATING" value="50V" x="36.91255" y="53.5932375" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C210" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="47nF" x="28.946603125" y="53.583075" smashed="yes" rot="R180">
 <attribute name="MPN" value="GRM188R71H104KA93D" x="28.946603125" y="53.583075" size="1.778" layer="27" rot="R180" display="off"/>
@@ -1928,23 +1928,23 @@ design rules under a new name.</description>
 <attribute name="TOLERANCE" value="±10%" x="48.956215625" y="34.474278125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGERATING" value="50V" x="48.956215625" y="34.474278125" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C211" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="0.1μF" x="43.13656875" y="34.201353125" smashed="yes" rot="R180">
-<attribute name="MPN" value="GRM188R71H104KA93D" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="42.2115" y="34.991296875" size="0.508" layer="25" ratio="10" rot="SR0"/>
-<attribute name="OC_FARNELL" value="8820023" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="38K1670" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="SUPPLIER" value="Murata" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="TOLERANCE" value="±10%" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VOLTAGERATING" value="50V" x="43.13656875" y="34.201353125" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C211" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="0.1μF" x="25.012140625" y="44.869353125" smashed="yes" rot="R180">
+<attribute name="MPN" value="GRM188R71H104KA93D" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="24.087071875" y="45.659296875" size="0.508" layer="25" ratio="10" rot="SR0"/>
+<attribute name="OC_FARNELL" value="8820023" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="38K1670" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER" value="Murata" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TOLERANCE" value="±10%" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VOLTAGERATING" value="50V" x="25.012140625" y="44.869353125" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C212" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="0.1μF" x="42.671746875" y="35.65169375" smashed="yes" rot="R180">
-<attribute name="MPN" value="GRM188R71H104KA93D" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="43.9554625" y="35.62985" size="0.508" layer="25" ratio="10" rot="SR0"/>
-<attribute name="OC_FARNELL" value="8820023" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="38K1670" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="SUPPLIER" value="Murata" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="TOLERANCE" value="±10%" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VOLTAGERATING" value="50V" x="42.671746875" y="35.65169375" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="C212" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="0.1μF" x="25.012140625" y="40.73169375" smashed="yes">
+<attribute name="MPN" value="GRM188R71H104KA93D" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="23.728425" y="40.7535375" size="0.508" layer="25" ratio="10" rot="SR180"/>
+<attribute name="OC_FARNELL" value="8820023" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
+<attribute name="OC_NEWARK" value="38K1670" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER" value="Murata" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
+<attribute name="TOLERANCE" value="±10%" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
+<attribute name="VOLTAGERATING" value="50V" x="25.012140625" y="40.73169375" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C203" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="10nF" x="39.440103125" y="51.0628875" smashed="yes">
 <attribute name="MPN" value="GRM188R71H104KA93D" x="39.440103125" y="51.0628875" size="1.778" layer="27" display="off"/>
@@ -2104,14 +2104,14 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="0603 Murata" x="42.926" y="53.086" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="42.926" y="53.086" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="Y201" library="XRCGB24M000F3N00R0" package="OSCCC200X160X70N" value="XRCGB32M000F1H17R0" x="42.538140625" y="32.006540625" smashed="yes" rot="R270">
-<attribute name="AVAILABILITY" value="Unavailable" x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="DESCRIPTION" value=" Crystal 24MHz 6pF 4-Pin CSMD Plastic T/R " x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MF" value="Murata" x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MP" value="XRCGB24M000F3N00R0" x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="41.5901375" y="33.478971875" size="0.508" layer="25"/>
-<attribute name="PACKAGE" value="SMD-4 Murata" x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PRICE" value="None" x="42.538140625" y="32.006540625" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="Y201" library="XRCGB24M000F3N00R0" package="OSCCC200X160X70N" value="XRCGB32M000F1H17R0" x="25.012140625" y="42.674540625" smashed="yes" rot="R270">
+<attribute name="AVAILABILITY" value="Unavailable" x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DESCRIPTION" value=" Crystal 24MHz 6pF 4-Pin CSMD Plastic T/R " x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MF" value="Murata" x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MP" value="XRCGB24M000F3N00R0" x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="24.0641375" y="44.146971875" size="0.508" layer="25"/>
+<attribute name="PACKAGE" value="SMD-4 Murata" x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE" value="None" x="25.012140625" y="42.674540625" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C213" library="Murata_By_element14_Batch_1" package="CAPC1608X85N" value="1nF" x="40.64" y="59.436" smashed="yes">
 <attribute name="MPN" value="GRM188R71H104KA93D" x="40.64" y="59.436" size="1.778" layer="27" display="off"/>
@@ -2204,15 +2204,15 @@ design rules under a new name.</description>
 <attribute name="NAME" x="29.65581875" y="55.171925" size="0.837690625" layer="25"/>
 <attribute name="VALUE" x="29.920159375" y="51.4553125" size="0.8332125" layer="27" align="top-left"/>
 </element>
-<element name="FB201" library="BLM21BD182SN1D" package="BEADC2012X105N" value="BLM21BD182SN1D" x="20.32" y="40.64" smashed="yes">
-<attribute name="DESCRIPTION" value=" SMD EMI Filters/Chip Ferrite Beads 0805, 1.8Kohms, HiSpd Signal Line, Tape " x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PART_NUMBER" value="490-1049-1-ND" x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="DIGI-KEY_PURCHASE_URL" value="https://www.digikey.ca/product-detail/en/murata-electronics/BLM21BD182SN1D/490-1049-1-ND/584496?utm_source=snapeda&amp;utm_medium=aggregator&amp;utm_campaign=symbol" x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="BLM21BD182SN1D" x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="18.61" y="41.71" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="2012 Murata" x="20.32" y="40.64" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="18.61" y="39.57" size="0.5" layer="27" align="top-left"/>
+<element name="FB201" library="BLM21BD182SN1D" package="BEADC2012X105N" value="BLM21BD182SN1D" x="22.352" y="48.006" smashed="yes">
+<attribute name="DESCRIPTION" value=" SMD EMI Filters/Chip Ferrite Beads 0805, 1.8Kohms, HiSpd Signal Line, Tape " x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER" value="490-1049-1-ND" x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="DIGI-KEY_PURCHASE_URL" value="https://www.digikey.ca/product-detail/en/murata-electronics/BLM21BD182SN1D/490-1049-1-ND/584496?utm_source=snapeda&amp;utm_medium=aggregator&amp;utm_campaign=symbol" x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Murata" x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="BLM21BD182SN1D" x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="20.642" y="49.076" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="2012 Murata" x="22.352" y="48.006" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="20.642" y="46.936" size="0.5" layer="27" align="top-left"/>
 </element>
 <element name="J1" library="SMA-FEMALE_PTH" package="TE_5-1814832-1" value="5-1814832-1" x="31.75" y="59.97473125" smashed="yes">
 <attribute name="DESCRIPTION" value=" SMA Connector Jack, Female Socket 50Ohm Through Hole Solder " x="31.75" y="59.97473125" size="1.778" layer="27" display="off"/>
@@ -2291,47 +2291,50 @@ design rules under a new name.</description>
 <contactref element="J1" pad="5"/>
 <contactref element="J1" pad="2"/>
 <contactref element="J1" pad="4"/>
-<wire x1="39.24935" y1="53.0852375" x2="41.3512" y2="59.436" width="0" layer="19" extent="1-1"/>
-<wire x1="38.728903125" y1="51.0628875" x2="39.24935" y2="53.0852375" width="0" layer="19" extent="1-1"/>
-<wire x1="45.0088" y1="53.086" x2="38.728903125" y2="51.0628875" width="0" layer="19" extent="1-1"/>
+<wire x1="45.0088" y1="53.086" x2="41.3512" y2="59.436" width="0" layer="19" extent="1-1"/>
 <wire x1="45.9232" y1="46.736" x2="45.0088" y2="53.086" width="0" layer="19" extent="1-1"/>
 <wire x1="41.09669375" y1="46.236128125" x2="45.9232" y2="46.736" width="0" layer="19" extent="1-1"/>
-<wire x1="41.960546875" y1="35.65169375" x2="41.09669375" y2="46.236128125" width="0" layer="19" extent="1-1"/>
-<wire x1="42.42536875" y1="34.201353125" x2="41.960546875" y2="35.65169375" width="0" layer="19" extent="1-1"/>
-<wire x1="31.07" y1="32.23" x2="42.42536875" y2="34.201353125" width="0" layer="19" extent="1-1"/>
-<wire x1="28.65" y1="36.15" x2="31.07" y2="32.23" width="0" layer="19" extent="1-1"/>
-<wire x1="33.7" y1="45.9545125" x2="28.65" y2="36.15" width="0" layer="19" extent="1-1"/>
-<wire x1="31.1" y1="45.9545125" x2="33.7" y2="45.9545125" width="0" layer="19" extent="1-1"/>
-<wire x1="34.73" y1="41.6745125" x2="28.65" y2="36.15" width="0" layer="19" extent="1-1"/>
-<wire x1="31.75" y1="42.9745125" x2="28.65" y2="36.15" width="0" layer="19" extent="1-1"/>
-<wire x1="22.15" y1="36.15" x2="34.73" y2="41.6745125" width="0" layer="19" extent="1-1"/>
-<wire x1="28.198065625" y1="48.063278125" x2="31.75" y2="42.9745125" width="0" layer="19" extent="1-1"/>
-<wire x1="47.396403125" y1="35.185478125" x2="28.198065625" y2="48.063278125" width="0" layer="19" extent="1-1"/>
-<wire x1="48.956215625" y1="35.185478125" x2="47.396403125" y2="35.185478125" width="0" layer="19" extent="1-1"/>
-<wire x1="32.47" y1="53.08949375" x2="48.956215625" y2="35.185478125" width="0" layer="19" extent="1-1"/>
-<wire x1="32.47" y1="53.58949375" x2="32.47" y2="53.08949375" width="0" layer="19" extent="1-1"/>
-<wire x1="31.03" y1="53.08949375" x2="32.47" y2="53.08949375" width="0" layer="19" extent="1-1"/>
-<wire x1="31.03" y1="53.58949375" x2="31.03" y2="53.08949375" width="0" layer="19" extent="1-1"/>
+<wire x1="38.728903125" y1="51.0628875" x2="41.09669375" y2="46.236128125" width="0" layer="19" extent="1-1"/>
+<wire x1="36.20135" y1="53.5932375" x2="38.728903125" y2="51.0628875" width="0" layer="19" extent="1-1"/>
+<wire x1="32.47" y1="53.58949375" x2="36.20135" y2="53.5932375" width="0" layer="19" extent="1-1"/>
+<wire x1="32.47" y1="53.08949375" x2="32.47" y2="53.58949375" width="0" layer="19" extent="1-1"/>
+<wire x1="31.03" y1="53.58949375" x2="32.47" y2="53.58949375" width="0" layer="19" extent="1-1"/>
+<wire x1="31.03" y1="53.08949375" x2="31.03" y2="53.58949375" width="0" layer="19" extent="1-1"/>
+<wire x1="31.242" y1="49.4792" x2="31.03" y2="53.08949375" width="0" layer="19" extent="1-1"/>
+<wire x1="28.198065625" y1="48.063278125" x2="31.242" y2="49.4792" width="0" layer="19" extent="1-1"/>
+<wire x1="31.1" y1="45.9545125" x2="31.242" y2="49.4792" width="0" layer="19" extent="1-1"/>
+<wire x1="33.7" y1="45.9545125" x2="31.1" y2="45.9545125" width="0" layer="19" extent="1-1"/>
+<wire x1="31.75" y1="42.9745125" x2="31.1" y2="45.9545125" width="0" layer="19" extent="1-1"/>
+<wire x1="34.73" y1="41.6745125" x2="31.75" y2="42.9745125" width="0" layer="19" extent="1-1"/>
 <wire x1="34.29" y1="57.43473125" x2="32.47" y2="53.58949375" width="0" layer="19" extent="1-1"/>
-<wire x1="31.242" y1="49.4792" x2="29.21" y2="57.43473125" width="0" layer="19" extent="1-1"/>
+<wire x1="29.21" y1="57.43473125" x2="31.03" y2="53.58949375" width="0" layer="19" extent="1-1"/>
+<wire x1="24.300940625" y1="44.869353125" x2="28.198065625" y2="48.063278125" width="0" layer="19" extent="1-1"/>
+<wire x1="25.723340625" y1="40.73169375" x2="24.300940625" y2="44.869353125" width="0" layer="19" extent="1-1"/>
+<wire x1="34.29" y1="62.51473125" x2="34.29" y2="57.43473125" width="0" layer="19" extent="1-1"/>
+<wire x1="29.21" y1="62.51473125" x2="29.21" y2="57.43473125" width="0" layer="19" extent="1-1"/>
+<wire x1="28.65" y1="36.15" x2="25.723340625" y2="40.73169375" width="0" layer="19" extent="1-1"/>
+<wire x1="31.07" y1="32.23" x2="28.65" y2="36.15" width="0" layer="19" extent="1-1"/>
+<wire x1="22.15" y1="36.15" x2="25.723340625" y2="40.73169375" width="0" layer="19" extent="1-1"/>
 <wire x1="28.65" y1="24.81" x2="31.07" y2="32.23" width="0" layer="19" extent="1-1"/>
-<wire x1="40.64" y1="24.105" x2="28.65" y2="24.81" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="24.2864625" x2="40.64" y2="24.105" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="21.7464625" x2="47.405290625" y2="24.2864625" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="16.6664625" x2="47.405290625" y2="21.7464625" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="14.1264625" x2="47.405290625" y2="16.6664625" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="11.5864625" x2="47.405290625" y2="14.1264625" width="0" layer="19" extent="1-1"/>
-<wire x1="47.405290625" y1="9.0464625" x2="47.405290625" y2="11.5864625" width="0" layer="19" extent="1-1"/>
-<wire x1="54.0512" y1="17.78" x2="47.405290625" y2="16.6664625" width="0" layer="19" extent="1-1"/>
-<wire x1="56.5912" y1="20.32" x2="54.0512" y2="17.78" width="0" layer="19" extent="1-1"/>
-<wire x1="57.785" y1="26.67" x2="56.5912" y2="20.32" width="0" layer="19" extent="1-1"/>
-<wire x1="57.785" y1="27.94" x2="57.785" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="57.785" y1="30.48" x2="57.785" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="39.1" y1="15.24" x2="47.405290625" y2="14.1264625" width="0" layer="19" extent="1-1"/>
 <wire x1="19.73" y1="27.23" x2="22.15" y2="36.15" width="0" layer="19" extent="1-1"/>
 <wire x1="10.16" y1="28.4" x2="19.73" y2="27.23" width="0" layer="19" extent="1-1"/>
 <wire x1="10.16" y1="37.64" x2="10.16" y2="28.4" width="0" layer="19" extent="1-1"/>
-<wire x1="21.86" y1="12.7" x2="19.73" y2="27.23" width="0" layer="19" extent="1-1"/>
+<wire x1="47.396403125" y1="35.185478125" x2="45.9232" y2="46.736" width="0" layer="19" extent="1-1"/>
+<wire x1="48.956215625" y1="35.185478125" x2="47.396403125" y2="35.185478125" width="0" layer="19" extent="1-1"/>
+<wire x1="57.785" y1="30.48" x2="48.956215625" y2="35.185478125" width="0" layer="19" extent="1-1"/>
+<wire x1="57.785" y1="27.94" x2="57.785" y2="30.48" width="0" layer="19" extent="1-1"/>
+<wire x1="57.785" y1="26.67" x2="57.785" y2="27.94" width="0" layer="19" extent="1-1"/>
+<wire x1="56.5912" y1="20.32" x2="57.785" y2="26.67" width="0" layer="19" extent="1-1"/>
+<wire x1="54.0512" y1="17.78" x2="56.5912" y2="20.32" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="16.6664625" x2="54.0512" y2="17.78" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="14.1264625" x2="47.405290625" y2="16.6664625" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="11.5864625" x2="47.405290625" y2="14.1264625" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="9.0464625" x2="47.405290625" y2="11.5864625" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="21.7464625" x2="47.405290625" y2="16.6664625" width="0" layer="19" extent="1-1"/>
+<wire x1="47.405290625" y1="24.2864625" x2="47.405290625" y2="21.7464625" width="0" layer="19" extent="1-1"/>
+<wire x1="40.64" y1="24.105" x2="47.405290625" y2="24.2864625" width="0" layer="19" extent="1-1"/>
+<wire x1="39.1" y1="15.24" x2="47.405290625" y2="14.1264625" width="0" layer="19" extent="1-1"/>
+<wire x1="21.86" y1="12.7" x2="28.65" y2="24.81" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="PB9">
 <contactref element="U101" pad="62"/>
@@ -2342,20 +2345,6 @@ design rules under a new name.</description>
 <contactref element="U101" pad="61"/>
 <contactref element="J403" pad="2"/>
 <wire x1="10.16" y1="24.4" x2="27.65" y2="24.81" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PA1">
-<contactref element="U101" pad="15"/>
-<contactref element="J401" pad="3"/>
-<wire x1="10.16" y1="41.64" x2="31.07" y2="33.73" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PC12/PD2">
-<contactref element="U101" pad="54"/>
-<contactref element="U101" pad="53"/>
-<contactref element="R401" pad="1"/>
-<contactref element="J402" pad="2"/>
-<wire x1="23.65" y1="24.81" x2="24.15" y2="24.81" width="0" layer="19" extent="1-1"/>
-<wire x1="29.63" y1="20.32" x2="23.65" y2="24.81" width="0" layer="19" extent="1-1"/>
-<wire x1="23.86" y1="12.7" x2="29.63" y2="20.32" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="NRST">
 <contactref element="U101" pad="7"/>
@@ -2425,9 +2414,9 @@ design rules under a new name.</description>
 <contactref element="C201" pad="2"/>
 <contactref element="C203" pad="2"/>
 <contactref element="L201" pad="2"/>
-<wire x1="40.67175" y1="53.0852375" x2="42.151" y2="53.086" width="0" layer="19" extent="1-1"/>
-<wire x1="40.151303125" y1="51.0628875" x2="40.67175" y2="53.0852375" width="0" layer="19" extent="1-1"/>
-<wire x1="29.8" y1="45.9545125" x2="40.67175" y2="53.0852375" width="0" layer="19" extent="1-1"/>
+<wire x1="37.62375" y1="53.5932375" x2="42.151" y2="53.086" width="0" layer="19" extent="1-1"/>
+<wire x1="40.151303125" y1="51.0628875" x2="37.62375" y2="53.5932375" width="0" layer="19" extent="1-1"/>
+<wire x1="29.8" y1="45.9545125" x2="37.62375" y2="53.5932375" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="RFO">
 <contactref element="U201" pad="24"/>
@@ -2442,15 +2431,24 @@ design rules under a new name.</description>
 <contactref element="U201" pad="4"/>
 <contactref element="C211" pad="1"/>
 <contactref element="Y201" pad="1"/>
-<wire x1="43.84776875" y1="34.201353125" x2="43.298140625" y2="32.566540625" width="0" layer="19" extent="1-1"/>
-<wire x1="28.77" y1="42.9745125" x2="43.298140625" y2="32.566540625" width="0" layer="19" extent="1-1"/>
+<wire x1="25.772140625" y1="43.234540625" x2="25.908" y2="43.234540625" width="0.1524" layer="1"/>
+<wire x1="25.908" y1="43.234540625" x2="28.509971875" y2="43.234540625" width="0.1524" layer="1"/>
+<wire x1="28.509971875" y1="43.234540625" x2="28.77" y2="42.9745125" width="0.1524" layer="1"/>
+<wire x1="25.723340625" y1="44.869353125" x2="25.723340625" y2="43.4192" width="0.1524" layer="1"/>
+<wire x1="25.723340625" y1="43.4192" x2="25.908" y2="43.234540625" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$10">
 <contactref element="U201" pad="5"/>
 <contactref element="C212" pad="1"/>
 <contactref element="Y201" pad="3"/>
-<wire x1="43.382946875" y1="35.65169375" x2="28.77" y2="42.3245125" width="0" layer="19" extent="1-1"/>
-<wire x1="41.778140625" y1="31.446540625" x2="43.382946875" y2="35.65169375" width="0" layer="19" extent="1-1"/>
+<wire x1="28.560028125" y1="42.114540625" x2="28.77" y2="42.3245125" width="0.1524" layer="1"/>
+<wire x1="25.37500625" y1="41.49094375" x2="26.169275" y2="41.49094375" width="0.1524" layer="1"/>
+<wire x1="24.252140625" y1="42.114540625" x2="24.751409375" y2="42.114540625" width="0.1524" layer="1"/>
+<wire x1="26.792871875" y1="42.114540625" x2="28.560028125" y2="42.114540625" width="0.1524" layer="1"/>
+<wire x1="24.751409375" y1="42.114540625" x2="25.37500625" y2="41.49094375" width="0.1524" layer="1"/>
+<wire x1="26.169275" y1="41.49094375" x2="26.792871875" y2="42.114540625" width="0.1524" layer="1"/>
+<wire x1="24.300940625" y1="40.73169375" x2="24.300940625" y2="42.065740625" width="0.1524" layer="1"/>
+<wire x1="24.300940625" y1="42.065740625" x2="24.252140625" y2="42.114540625" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$14">
 <contactref element="C205" pad="1"/>
@@ -2475,57 +2473,17 @@ design rules under a new name.</description>
 <wire x1="40.627" y1="48.26" x2="42.51909375" y2="46.236128125" width="0" layer="19" extent="1-1"/>
 <wire x1="32.47" y1="54.08949375" x2="44.154090625" y2="48.267875" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="PA5">
-<contactref element="U201" pad="17"/>
-<contactref element="U101" pad="21"/>
-<wire x1="27.15" y1="36.15" x2="34.73" y2="42.3245125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PA6">
-<contactref element="U101" pad="22"/>
-<contactref element="U201" pad="18"/>
-<wire x1="26.65" y1="36.15" x2="34.73" y2="42.9745125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PA7">
-<contactref element="U101" pad="23"/>
-<contactref element="U201" pad="19"/>
-<wire x1="26.15" y1="36.15" x2="34.73" y2="43.6245125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PB6">
-<contactref element="U101" pad="58"/>
-<contactref element="U201" pad="20"/>
-<wire x1="26.15" y1="24.81" x2="34.73" y2="44.2745125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PA10">
-<contactref element="U101" pad="43"/>
-<contactref element="U201" pad="9"/>
-<wire x1="19.73" y1="29.23" x2="30.45" y2="39.9945125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PB3">
-<contactref element="U101" pad="55"/>
-<contactref element="U201" pad="10"/>
-<wire x1="24.65" y1="24.81" x2="31.1" y2="39.9945125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PB4">
-<contactref element="U101" pad="56"/>
-<contactref element="U201" pad="12"/>
-<wire x1="25.15" y1="24.81" x2="32.4" y2="39.9945125" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="PB5">
-<contactref element="U101" pad="57"/>
-<contactref element="U201" pad="11"/>
-<wire x1="25.65" y1="24.81" x2="31.75" y2="39.9945125" width="0" layer="19" extent="1-1"/>
-</signal>
 <signal name="RF_RX">
 <contactref element="C210" pad="1"/>
 <contactref element="U202" pad="1"/>
 <wire x1="29.657803125" y1="53.583075" x2="31.03" y2="54.08949375" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="PA14">
+<signal name="MCU_SWCLK">
 <contactref element="U101" pad="49"/>
 <contactref element="J404" pad="4"/>
 <wire x1="21.65" y1="24.81" x2="53.975" y2="26.67" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="PA13">
+<signal name="MCU_SWDIO">
 <contactref element="U101" pad="46"/>
 <contactref element="J404" pad="2"/>
 <wire x1="19.73" y1="27.73" x2="53.975" y2="25.4" width="0" layer="19" extent="1-1"/>
@@ -2550,7 +2508,7 @@ design rules under a new name.</description>
 <wire x1="48.116490625" y1="19.4874625" x2="48.827690625" y2="21.7464625" width="0" layer="19" extent="1-1"/>
 <wire x1="48.827690625" y1="24.2864625" x2="48.827690625" y2="21.7464625" width="0" layer="19" extent="1-1"/>
 <wire x1="41.59" y1="21.615" x2="48.116490625" y2="19.4874625" width="0" layer="19" extent="1-1"/>
-<wire x1="19.43" y1="40.64" x2="41.59" y2="21.615" width="0" layer="19" extent="1-1"/>
+<wire x1="21.462" y1="48.006" x2="41.59" y2="21.615" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="RXTX_SEL">
 <contactref element="U201" pad="23"/>
@@ -2571,7 +2529,61 @@ design rules under a new name.</description>
 <wire x1="28.77" y1="44.9245125" x2="39.9288" y2="59.436" width="0" layer="19" extent="1-1"/>
 <wire x1="34.73" y1="41.0245125" x2="28.77" y2="44.9245125" width="0" layer="19" extent="1-1"/>
 <wire x1="31.03" y1="52.58949375" x2="28.77" y2="44.9245125" width="0" layer="19" extent="1-1"/>
-<wire x1="21.21" y1="40.64" x2="31.03" y2="52.58949375" width="0" layer="19" extent="1-1"/>
+<wire x1="23.242" y1="48.006" x2="31.03" y2="52.58949375" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_SCK">
+<contactref element="U101" pad="21"/>
+<contactref element="U201" pad="17"/>
+<wire x1="27.15" y1="36.15" x2="34.73" y2="42.3245125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_NSS">
+<contactref element="U201" pad="20"/>
+<contactref element="U101" pad="58"/>
+<wire x1="26.15" y1="24.81" x2="34.73" y2="44.2745125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_MOSI">
+<contactref element="U201" pad="19"/>
+<contactref element="U101" pad="23"/>
+<wire x1="26.15" y1="36.15" x2="34.73" y2="43.6245125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_MISO">
+<contactref element="U201" pad="18"/>
+<contactref element="U101" pad="22"/>
+<wire x1="26.65" y1="36.15" x2="34.73" y2="42.9745125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_DIO0">
+<contactref element="U101" pad="43"/>
+<contactref element="U201" pad="9"/>
+<wire x1="19.73" y1="29.23" x2="30.45" y2="39.9945125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_DIO1">
+<contactref element="U101" pad="55"/>
+<contactref element="U201" pad="10"/>
+<wire x1="24.65" y1="24.81" x2="31.1" y2="39.9945125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_DIO3">
+<contactref element="U101" pad="56"/>
+<contactref element="U201" pad="12"/>
+<wire x1="25.15" y1="24.81" x2="32.4" y2="39.9945125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="RADIO_DIO2">
+<contactref element="U101" pad="57"/>
+<contactref element="U201" pad="11"/>
+<wire x1="25.65" y1="24.81" x2="31.75" y2="39.9945125" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="MOIST_ANA">
+<contactref element="U101" pad="15"/>
+<contactref element="J401" pad="3"/>
+<wire x1="10.16" y1="41.64" x2="31.07" y2="33.73" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="OW_RX/TX">
+<contactref element="U101" pad="54"/>
+<contactref element="U101" pad="53"/>
+<contactref element="R401" pad="1"/>
+<contactref element="J402" pad="2"/>
+<wire x1="24.15" y1="24.81" x2="29.63" y2="20.32" width="0" layer="19" extent="1-1"/>
+<wire x1="23.65" y1="24.81" x2="24.15" y2="24.81" width="0" layer="19" extent="1-1"/>
+<wire x1="23.86" y1="12.7" x2="29.63" y2="20.32" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
