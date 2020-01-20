@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -6387,13 +6387,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <label x="50.8" y="104.14" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="RADIO_NSS" class="0">
-<segment>
-<pinref part="U101" gate="G$1" pin="PB6"/>
-<wire x1="76.2" y1="63.5" x2="50.8" y2="63.5" width="0.1524" layer="91"/>
-<label x="50.8" y="63.5" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="MCU_SWCLK" class="0">
 <segment>
 <pinref part="U101" gate="G$1" pin="PA14"/>
@@ -6431,34 +6424,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="76.2" y1="109.22" x2="50.8" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="RADIO_DIO0" class="0">
-<segment>
-<pinref part="U101" gate="G$1" pin="PA10"/>
-<wire x1="76.2" y1="96.52" x2="50.8" y2="96.52" width="0.1524" layer="91"/>
-<label x="50.8" y="96.52" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="RADIO_DIO1" class="0">
-<segment>
-<pinref part="U101" gate="G$1" pin="PB3"/>
-<wire x1="76.2" y1="71.12" x2="50.8" y2="71.12" width="0.1524" layer="91"/>
-<label x="50.8" y="71.12" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="RADIO_DIO3" class="0">
-<segment>
-<pinref part="U101" gate="G$1" pin="PB4"/>
-<wire x1="76.2" y1="68.58" x2="50.8" y2="68.58" width="0.1524" layer="91"/>
-<label x="50.8" y="68.58" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="RADIO_DIO2" class="0">
-<segment>
-<pinref part="U101" gate="G$1" pin="PB5"/>
-<wire x1="76.2" y1="66.04" x2="50.8" y2="66.04" width="0.1524" layer="91"/>
-<label x="50.8" y="66.04" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="MOIST_ANA" class="0">
 <segment>
 <pinref part="U101" gate="G$1" pin="PA1"/>
@@ -6476,6 +6441,41 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="143.51" y1="78.74" x2="143.51" y2="91.44" width="0.1524" layer="91"/>
 <junction x="143.51" y="91.44"/>
 <label x="133.35" y="91.44" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RADIO_DIO2" class="0">
+<segment>
+<pinref part="U101" gate="G$1" pin="PC5"/>
+<wire x1="127" y1="109.22" x2="147.32" y2="109.22" width="0.1524" layer="91"/>
+<label x="132.08" y="109.22" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RADIO_DIO3" class="0">
+<segment>
+<pinref part="U101" gate="G$1" pin="PC4"/>
+<wire x1="127" y1="111.76" x2="147.32" y2="111.76" width="0.1524" layer="91"/>
+<label x="132.08" y="111.76" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RADIO_NSS" class="0">
+<segment>
+<pinref part="U101" gate="G$1" pin="PA4"/>
+<wire x1="76.2" y1="111.76" x2="50.8" y2="111.76" width="0.1524" layer="91"/>
+<label x="53.34" y="111.76" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RADIO_DIO0" class="0">
+<segment>
+<pinref part="U101" gate="G$1" pin="PB1"/>
+<wire x1="76.2" y1="76.2" x2="50.8" y2="76.2" width="0.1524" layer="91"/>
+<label x="50.8" y="76.2" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="RADIO_DIO1" class="0">
+<segment>
+<pinref part="U101" gate="G$1" pin="PB0"/>
+<wire x1="76.2" y1="78.74" x2="50.8" y2="78.74" width="0.1524" layer="91"/>
+<label x="50.8" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
