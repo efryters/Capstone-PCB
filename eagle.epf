@@ -1,6 +1,6 @@
 [Eagle]
 Version="09 05 02"
-Platform="Windows"
+Platform="Linux"
 Globals="Globals"
 Desktop="Desktop"
 
@@ -264,16 +264,15 @@ UsedLibraryUrn="urn:adsk.eagle:library:196"
 UsedLibraryUrn="urn:adsk.eagle:library:197"
 UsedLibraryUrn="urn:adsk.eagle:library:198"
 UsedLibraryUrn="urn:adsk.eagle:library:199"
-UsedLibrary="C:/Users/drako/Documents/Development/PCB/Capstone/Lib/frames_eric.lbr"
-UsedLibrary="C:/Users/drako/Documents/Development/PCB/Capstone/Lib/BGS12PN10.lbr"
-UsedLibrary="C:/Users/drako/Documents/Development/PCB/Capstone/Lib/BLM21BD182SN1D.lbr"
-UsedLibrary="C:/Users/drako/Documents/Development/PCB/Capstone/Lib/con-cortex.lbr"
-UsedLibrary="C:/Users/drako/Documents/Development/PCB/Capstone/Lib/SMA-FEMALE_PTH.lbr"
+UsedLibrary="/home/eric/EAGLE/libraries/MCP73871-2AAI_ML.lbr"
+UsedLibrary="/home/eric/EAGLE/libraries/MUSB-05-S-B-SM-A.lbr"
+UsedLibrary="/home/eric/EAGLE/libraries/Murata_By_element14_Batch_1.lbr"
+UsedLibrary="/home/eric/EAGLE/libraries/XRCGB24M000F3N00R0.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1920 1080"
+Screen="3840 1080"
 Window="Win_1"
